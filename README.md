@@ -1,4 +1,3 @@
-<div style="display:none">
 <!DOCTYPE html>
 <html>
 <body>
@@ -17,7 +16,7 @@ background-color: black;
 <body>
 </body>
 </html>
--------------  PICTURES -----------------</div>
+-------------  PICTURES -----------------
 <center>
 body{
     background-image:url();
