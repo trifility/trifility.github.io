@@ -1,10 +1,4 @@
 <head>
-<title>morgue</title>
-<style>
-body {
-background-color: black;
-}
-</style>
 </head>
 <body>
 </body>
@@ -12,33 +6,7 @@ background-color: black;
 <div style="text-align: right;">
 <img src="https://media.tenor.com/VWx4ksvlPkcAAAAC/flowers-black-and-white-aesthetic.gif" alt="3D HTML" width="500" height="281">
 <center>
-<style>
-a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
 
-a:visited {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-}
-</style>
 
             <h3>            
                <p style="font-family:verdana"> <a href="https://doxbin.com/upload/yydoxxed"   target="_blank">My Information
