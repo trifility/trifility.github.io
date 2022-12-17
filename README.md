@@ -2,6 +2,7 @@
 <html>
 <body>
 
+    visibility: hidden
 <title>morgue</title>
 <meta content="Son of a pharaoh.">
 ------------- BACKGROUND -----------------
